@@ -8,4 +8,5 @@ def home(request):
 
 def home3(request):
     print("Testing branch on Git Hub")
+    print("Testing branch on Git Hub from main branch")
     return HttpResponse("Welcome to MyProject!")
