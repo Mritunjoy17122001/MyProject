@@ -6,5 +6,5 @@ def home(request):
     return HttpResponse("Welcome to MyProject!")
 
 
-def home2(request):
+def home3(request):
     return HttpResponse("Welcome to MyProject!")
