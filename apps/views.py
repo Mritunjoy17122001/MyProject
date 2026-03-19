@@ -7,4 +7,5 @@ def home(request):
 
 
 def home3(request):
+    print("Testing branch on Git Hub")
     return HttpResponse("Welcome to MyProject!")
