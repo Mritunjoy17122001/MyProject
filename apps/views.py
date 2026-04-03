@@ -11,4 +11,5 @@ def home3(request):
     print("Testing branch on Git Hub from main branch")
     print("Now Made changes in main branch and now merging to test branch")
     print("Now Made changes in main branch and now merging to test branch using github portal")
+    print("Mode Changes in the main branch!!")
     return HttpResponse("Welcome to MyProject!")
